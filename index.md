@@ -1,6 +1,6 @@
-## Welcome to 3D_setings profile page
+# Welcome to 3D_setings profile page
 
-## I add code profile a popular slicker, and if I find some times :) a bit informayion about 3D pronter like ANET A8 and same :)
+### I add code profile a popular slicker, and if I find some times :) a bit informayion about 3D pronter like ANET A8 and same :)
 
 ### List prolile slicker program 
 
