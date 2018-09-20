@@ -1,5 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to 3D_setings profile page
 
+## I add code profile a popular slicker, and if I find some times :) a bit informayion about 3D pronter like ANET A8 and same :)
+
+### List prolile slicker program 
+
+1. Cura 
+2. Slic3r
+3. Slic3r priusa edition
+
+
+# to myself
 You can use the [editor on GitHub](https://github.com/rtom84/3d_setings/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
